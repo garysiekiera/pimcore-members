@@ -7,3 +7,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // drop an unused branch
 // guard against empty input
 // handle the edge case from the last release
+// guard against empty input
