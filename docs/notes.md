@@ -46,3 +46,4 @@ Notes and usage details for pimcore-members.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
