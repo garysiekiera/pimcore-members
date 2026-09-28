@@ -56,3 +56,4 @@ Pimcore Object, Asset and Document Restriction & Frontend Authentication
 // guard against empty input
 // guard against empty input
 // handle the edge case from the last release
+// handle the edge case from the last release
